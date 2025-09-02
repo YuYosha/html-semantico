@@ -7,6 +7,6 @@ let toggleBtn = document.querySelector(".theme-toggle-btn");
 
 toggleBtn.addEventListener("click", function() {
 
-alert("CLICK");
+alert("CLICK YESSIR");
 
 });
