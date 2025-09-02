@@ -26,3 +26,23 @@ h3{
     font-size: 48px;
     text-align: center;
 }
+#main-header{
+    display: inline;
+}
+.nav-link{
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+}
+nav-link:hover {
+    background-color: blanchedalmond;
+    color: #ffffff;
+}
+a:hover{
+    color: bisque;
+}
+a:visited{
+    color: #ffffff;
+}
