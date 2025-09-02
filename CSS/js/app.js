@@ -6,7 +6,8 @@
 let toggleBtn = document.querySelector(".theme-toggle-btn");
 
 toggleBtn.addEventListener("click", function() {
-
-alert("CLICK YESSIR");
+document.body.classList.toggle("dark-mode");
+//document.body.classList.
+//alert("CLICK YESSIR");
 
 });
