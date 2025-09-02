@@ -29,6 +29,11 @@ h3{
 #main-header{
     display: inline;
 }
+#main-header ul{
+    list-style: none;
+    text-align: center;
+    padding: 30px;
+}
 .nav-link{
     padding: 10px;
     border: 1px solid #ffffff;
@@ -36,7 +41,10 @@ h3{
     margin: 10px;
     text-decoration: none;
 }
-nav-link:hover {
+.nav-link:visited{
+    color: #ffffff;
+}
+.nav-link:hover {
     background-color: blanchedalmond;
     color: #ffffff;
 }
